@@ -1,2 +1,2 @@
 # monCV
- DEPOS pour TOUS les recruteurs puissent lire mon CV
+ DEPOS pour que TOUS les recruteurs puissent lire mon CV
