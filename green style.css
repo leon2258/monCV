@@ -1,0 +1,44 @@
+h1
+{
+	color:red;
+	text-align:center;
+}
+
+
+h2
+{
+	color:blue;
+	text-align:left;
+}
+
+
+h3
+{
+ color:maroon;
+}
+
+
+.introduction
+{
+  color:green;
+}
+
+
+.imageflottante
+{
+  clear:both;
+  float:left;
+}
+
+
+.dessous
+{
+ clear:both;
+
+}
+
+.texte_flot
+{
+ 
+  float:right;
+}
